@@ -8,8 +8,6 @@
     ],
     "functions": {
         "./api/app.py": {
-          "runtime": "python3.8",
-          "includeFiles": "app.py",
           "maxDuration": 20
         }
     }
